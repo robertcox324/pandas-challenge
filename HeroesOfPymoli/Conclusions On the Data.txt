@@ -1,0 +1,21 @@
+Observable trends within the data for the Heroes of Pymoli assignment include:
+
+1) There are many more male players (84.03%) than female/other combined. This is either
+a game that attracts more male players to itself by some aspect of itself, or
+this is simply a result of the fact that there is a larger male demographic that
+plays games on the platform the game is released for. The latter is likely part of it
+as most games platforms have higher male demographics, but it's not guaranteed to be the case
+
+2) The main age demographic for this game is young adults ages 20-24,
+making up nearly half the players (44.79%) and a large portion of the 
+remaining players fall into the 5 year age ranges immediately before 
+and after it
+
+3) Nearly all of the top spenders also fall within this target demographic
+The top 5 spenders are, in order, 25, 24, 22, 21, and 20 years of age.
+not only is 20-24 and its immediate surrounding groups the top spenders by volume
+it also has a relatively high average due to individuals like this
+
+4) the top spenders only purchased at most 5 items each, so this game does not yet have
+huge whales spending a ton on in-game purchases as many others with in-game purchases do, 
+at least not in the data provided at the time
